@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://dangsan-nightlife-note.nrb-apgujeong-guide.xyz/sitemap.xml
+Sitemap: https://dangsan-nightlife-note.nrb-apgujeong-guide.xyz/sitemap-pages.xml
